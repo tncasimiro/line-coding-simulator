@@ -66,11 +66,3 @@ Verifique a pasta do projeto para os arquivos de gráficos em formato PNG. Você
 ```bash
 python -m unittest test_line_coding_simulator.py
 ```
-
-## Sugestões para Melhorias Futuras
-
-- Interface gráfica para manipulação interativa das sequências.
-- Exportação dos resultados analíticos em CSV.
-- Mais validação e tratamento de erros nas entradas.
-- Parâmetros de linha de comando para facilitar a execução.
-- Documentação mais detalhada e exemplos adicionais.
